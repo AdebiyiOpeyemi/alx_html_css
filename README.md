@@ -1,0 +1,1 @@
+This repository contains basics of HTML and CSS from ALX SWE program
